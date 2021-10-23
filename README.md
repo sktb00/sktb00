@@ -1,4 +1,4 @@
-<a href= "https://discord.com/users/661717143141875712"><img align="left" height="150px" src="https://i.imgur.com/vdqP3SP.png">
+<a href= "https://discord.com/users/661717143141875712"><img align="left" height="150px" src="https://i.imgur.com/u23pDCa.png">
     <br>
 ### 👋 Hi, I'm sktb!
 - 👀 I’m interested in proggraming with `python`
