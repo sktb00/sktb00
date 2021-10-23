@@ -4,5 +4,5 @@
 - 👀 I’m interested in proggraming with `python`
 - 🌱 I’m currently learning **Flask**
 
-<a href="https://discord.gg/M74Dw76jEW"><img align="right" src="https://komarev.com/ghpvc/?username=sktb00&color=036bfc">
+<img align="right" src="https://komarev.com/ghpvc/?username=sktb00&color=036bfc">
 
