@@ -3,6 +3,7 @@
 ### 👋 Hi, I'm sktb!
 - 👀 I’m interested in proggraming with `python`
 - 🌱 I’m currently learning **Flask**
+- 🤖 Owner of [Avaniz](https://discord.gg/kpHjbFxYSg)
 
 <img align="right" src="https://komarev.com/ghpvc/?username=sktb00&color=036bfc">
 
